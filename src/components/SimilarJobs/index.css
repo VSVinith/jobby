@@ -1,0 +1,27 @@
+.similar-job-title {
+    color: white;
+    margin-left: 20px;
+  }
+  
+  .description {
+    color: white;
+    margin-left: 20px;
+  }
+  
+  .flex-row {
+    display: flex;
+  }
+  
+  .job-description {
+    color: white;
+  }
+  
+  .similar-job-item {
+    margin: 30px;
+    background-color: #2c364c;
+    padding: 25px;
+    border-radius: 10px;
+    font-family: 'roboto';
+    font-size: 12px;
+  }
+  

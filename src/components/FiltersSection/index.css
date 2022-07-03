@@ -1,0 +1,11 @@
+.filters-section {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    font-size: 12px;
+  }
+  
+  .heading {
+    font-size: 12px;
+  }
+  

@@ -1,0 +1,50 @@
+.all-jobs {
+  background-color: black;
+  font-size: 12px;
+  height: 100vh;
+}
+
+.profile-filters {
+  margin-left: 10px;
+  color: white;
+}
+
+.job-cards {
+  margin-top: 10px;
+}
+
+.line {
+  color: white;
+}
+
+.search-bar {
+  color: white;
+  background-color: black;
+  margin: 20px;
+  margin-left: 55px;
+  border-radius: 5px;
+  padding: 5px;
+  border: 2px solid white;
+  width: 300px;
+}
+
+.jobs-loader-container {
+  height: 90vh;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure-container {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
